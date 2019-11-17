@@ -30,12 +30,29 @@ input[type="text"] {
 
 .block1 {
     border: 2px solid white;
+    padding-bottom: 15px;
+    width: 195px;
 }
 
 .block2 {
-    margin: 18px;
-    padding: 20px;
-    height: 38px;
+    margin: 20px;
+    padding: 15px;
+    height: 30px;
+    border: 2px solid white;
+    margin-left: 120px;
+    padding-top: 10px;
+    padding-left: 40px;
+    width: 80px;
+}
+
+.block3 {
+    margin-left: 20px;
+    border: 12px solid white;
+    padding: 5px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    width: 166px;
+    height: 22px;
 }
 
 .block {
